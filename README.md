@@ -30,7 +30,7 @@ This forum will serve as the primary point of discussion for the Vessel desktop 
 
 This project has no monetization features and is supported by donations from the community. If you'd like to donate, feel free to use one of the following methods:
 
-- STEEM/SBD: [@vessel](https://hive.blog/@vessel)
+- HIVE/HBD: [@vessel](https://hive.blog/@vessel)
 - Bitcoin: [3NvAcXGpAsmFJRkQ2LUTecvHjkw5XREReU](https://blockchain.info/address/3NvAcXGpAsmFJRkQ2LUTecvHjkw5XREReU)
 
 ## No Support & No Warranty
